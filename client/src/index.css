@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bgcardGray {
+    background: radial-gradient(
+      141.42% 141.42% at 0% 0%,
+      #01253e 0%,
+      #0b334f 100%
+    );
+  }
+
+body {
+    background: radial-gradient(61.77% 61.77% at 50% 50%, rgba(87, 244, 168, 0.14) 0%, rgba(0, 31, 54, 0.14) 100%)
+  }
